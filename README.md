@@ -24,6 +24,7 @@ Building Redis
 --------------
 
 Go to src directory, use below command:
+
 python3 tools/android_cmake_build.py -n <ndk directory, for example: \Android\Sdk\ndk\26.1.10909125> -a arm64-v8a -i ./ -o build/arm64-v8a
 
 Enjoy!
