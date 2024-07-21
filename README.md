@@ -3,6 +3,7 @@ This project is built for Redis in Android. Mainly includes:
 1. Correction for Lua bug in Android platform.
 2. Adding CMakeLists.txt for redis and related dependency modules.
 3. Building related static library for each dependency modules.
+4. Introducing NDK building toolchain for building.
 
 What is Redis?
 --------------
